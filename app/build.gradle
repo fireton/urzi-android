@@ -10,7 +10,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion = '29.0.3'
     defaultConfig {
-        applicationId "org.emunix.metaparser"
+        applicationId "com.runebyte.mpmin.urzi"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
