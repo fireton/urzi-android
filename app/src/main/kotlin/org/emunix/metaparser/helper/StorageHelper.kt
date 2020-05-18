@@ -6,6 +6,7 @@ import androidx.core.os.EnvironmentCompat
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import org.apache.commons.io.FileUtils
+import org.emunix.metaparser.BuildConfig
 import java.io.File
 import java.io.IOException
 
@@ -34,7 +35,7 @@ class StorageHelper(val context: Context) {
     fun copyAsset(name: String, toPath: File) {
         val assetManager = context.assets
         try {
-            val assets = assetManager.list(name)
+            val assets = assetManager.list(name) ?: throw IOException("Assets not found")
 
             val dir = File(toPath, name)
             if (assets.isEmpty()) {
@@ -52,14 +53,14 @@ class StorageHelper(val context: Context) {
 
     suspend fun copyResources() {
         withContext(Dispatchers.IO) {
-            if (AppVersionHelper(context).isNewAppVersion()) {
+            if (AppVersionHelper(context).isNewAppVersion() || BuildConfig.DEBUG) {
                 getSteadDirectory().deleteRecursively()
                 copyAsset("stead", getAppFilesDirectory())
 
                 getGameDirectory().deleteRecursively()
                 copyAsset("game", getAppFilesDirectory())
 
-                copyAsset("restart.lua", getSteadDirectory())
+                copyAsset("metaparser.lua", getSteadDirectory())
 
                 AppVersionHelper(context).saveCurrentAppVersion(AppVersionHelper(context).getVersionCode())
             }
