@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>         <!--цвет тулбара с названием игры и меню-->
-    <color name="colorPrimaryDark">#00574B</color>     <!--цвет статусбара: часы, уведомления-->
-    <color name="colorAccent">#D81B60</color>          <!--цвет курсора, выделения текста, индикатора прогресса, кнопок в диалогах-->
+    <color name="colorPrimary">#A34100</color>         <!--цвет тулбара с названием игры и меню-->
+    <color name="colorPrimaryDark">#A34100</color>     <!--цвет статусбара: часы, уведомления-->
+    <color name="colorAccent">#E35630</color>          <!--цвет курсора, выделения текста, индикатора прогресса, кнопок в диалогах-->
 
-    <color name="backgroundColor">#FFFFFF</color>      <!--цвет фона для текста-->
-    <color name="editTextColor">#FFFFFF</color>        <!--цвет фона для ввода текста-->
+    <color name="backgroundColor">#fce9b8</color>      <!--цвет фона для текста-->
+    <color name="editTextColor">#fce9b8</color>        <!--цвет фона для ввода текста-->
 
-    <color name="commandTextColor">#000000</color>     <!--цвет текста введенной команды-->
-    <color name="textColor">#000000</color>            <!--цвет текта который приходит как ответ метапарсера на комманду-->
+    <color name="commandTextColor">#452B12</color>     <!--цвет текста введенной команды-->
+    <color name="textColor">#452B12</color>            <!--цвет текта который приходит как ответ метапарсера на комманду-->
 </resources>

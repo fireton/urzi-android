@@ -22,6 +22,7 @@ mp.msg.Tell.SELF = "Глупо же."
 mp.msg.UNKNOWN_WORD = "Урзи ничего не понял."
 mp.msg.Touch.LIVE = "Урзи тронул лапкой."
 mp.msg.Touch.TOUCH = "Урзи не хочет."
+mp.msg.CUTSCENE_HELP = "Для продолжения нажмите {$fmt b|ввод} или введите {$fmt em|дальше}."
 
 function mp:pre_input(str)
 	local a = std.split(str)
