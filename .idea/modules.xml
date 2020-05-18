@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="metaparser/app" />
       <module fileurl="file://$PROJECT_DIR$/metaparser.iml" filepath="$PROJECT_DIR$/metaparser.iml" group="metaparser" />
+      <module fileurl="file://$PROJECT_DIR$/urzi-android.iml" filepath="$PROJECT_DIR$/urzi-android.iml" group="urzi-android" />
+      <module fileurl="file://$PROJECT_DIR$/app/urzi-android-app.iml" filepath="$PROJECT_DIR$/app/urzi-android-app.iml" group="urzi-android/app" />
     </modules>
   </component>
 </project>
