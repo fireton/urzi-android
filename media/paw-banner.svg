@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="D:\TON\IF\urzi-android\media\banner.png"
+   height="500"
+   width="1024"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="paw-banner.svg"
+   id="svg4"
+   version="1.1"
+   viewBox="0 0 1024 500"
+   role="img"
+   class="svg-inline--fa fa-paw fa-w-16"
+   data-icon="paw"
+   data-prefix="fas"
+   focusable="false"
+   aria-hidden="true">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:current-layer="layer4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="282.64239"
+     inkscape:cx="444.02475"
+     inkscape:zoom="0.65186406"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4688"
+       orientation="0.70710678,0.70710678"
+       position="381.55932,466.98305" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4690"
+       orientation="0.70710678,0.70710678"
+       position="557.55932,104.13559" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4692"
+       orientation="0.70710678,0.70710678"
+       position="371.24305,227.80823" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4694"
+       orientation="0.70710678,0.70710678"
+       position="143.43481,337.49368" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4696"
+       orientation="0.70710678,0.70710678"
+       position="312.67797,318.91525" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4698"
+       orientation="0.70710678,0.70710678"
+       position="109.55932,313.22034" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4700"
+       orientation="0.70710678,0.70710678"
+       position="-745.55422,1340.3936" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4702"
+       orientation="0.70710678,0.70710678"
+       position="-579.8755,1659.4785" />
+  </sodipodi:namedview>
+  <g
+     sodipodi:insensitive="true"
+     style="opacity:0.887097"
+     inkscape:label="back"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       y="-18.408747"
+       x="-32.215305"
+       height="541.52393"
+       width="1207.307"
+       id="rect2869"
+       style="fill:#fce0b8;fill-opacity:1;stroke:none;stroke-width:1.07874" />
+  </g>
+  <g
+     style="opacity:0.166"
+     inkscape:label="Shadow"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <path
+       id="path4704"
+       d="m 215.17841,120.5142 -36.59416,59.54781 -56.19821,-56.19923 -29.733201,63.27927 78.885521,78.88554 -18.87041,11.05071 -88.399637,-88.39964 -36.070572,44.93144 73.385309,73.3853 -44.221928,25.8962 74.421428,74.42143 45.58166,45.58066 L 460.94109,736.4706 685.50582,590.84061 421.06769,326.40247 334.24587,239.58066 Z"
+       style="fill:#000000;stroke:none;stroke-width:0.514547px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:label="Foreground"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#a05a2c;stroke-width:0.514547"
+       id="path2"
+       d="m 150.57257,212.60914 c -40.8602,0 -98.793083,63.16582 -98.793083,103.03809 0,17.9577 13.795013,28.68602 36.913625,28.68602 25.130498,0 41.724648,-12.90486 61.879458,-12.90486 20.32977,0 36.97023,12.90486 61.87947,12.90486 23.1186,0 36.91362,-10.72832 36.91362,-28.68602 0,-39.87227 -57.93288,-103.03809 -98.79309,-103.03809 z m -75.782525,-6.48845 c -5.351292,-17.82907 -21.83739,-29.37551 -36.821011,-25.79426 -14.983615,3.58125 -22.789298,20.93694 -17.438007,38.766 5.35129,17.82906 21.837388,29.3755 36.82101,25.79426 14.983611,-3.58126 22.7893,-20.93694 17.438008,-38.766 z M 118.38249,195.4284 c 15.9201,-4.18842 23.88529,-25.6965 17.79306,-48.03814 -6.09225,-22.34164 -23.93675,-37.05256 -39.856849,-32.86415 -15.920089,4.18843 -23.88528,25.6965 -17.793045,48.03815 6.092241,22.34164 23.941884,37.0577 39.856834,32.86414 z m 144.78847,-15.09682 c -14.98361,-3.58126 -31.46456,7.96519 -36.82101,25.79425 -5.35128,17.82907 2.4544,35.18475 17.43802,38.766 14.98361,3.58125 31.46457,-7.96519 36.821,-25.79426 5.3513,-17.82907 -2.45439,-35.18475 -17.43801,-38.76599 z m -80.40831,15.09682 c 15.9201,4.18841 33.7646,-10.5225 39.85684,-32.86414 6.09224,-22.34165 -1.87295,-43.84459 -17.79305,-48.03815 -15.92009,-4.19355 -33.76459,10.52251 -39.85683,32.86415 -6.09224,22.34164 1.87296,43.84972 17.79304,48.03814 z" />
+  </g>
+  <g
+     inkscape:label="Foreground 1"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <text
+       id="text2874"
+       y="276.1312"
+       x="447.94614"
+       style="font-style:normal;font-weight:normal;font-size:144px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:144px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';fill:#803300"
+         y="276.1312"
+         x="447.94614"
+         id="tspan2872"
+         sodipodi:role="line">Урзи</tspan></text>
+  </g>
+</svg>
